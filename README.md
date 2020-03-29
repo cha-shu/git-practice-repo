@@ -1,2 +1,2 @@
 # git-practice-repo
-This repository is for practice
+This is my awesome repo
